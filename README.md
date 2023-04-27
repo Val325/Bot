@@ -1,1 +1,1 @@
-Маленький бот, который только с бд работает и случайную статью шлёт с википедии
+Small bot with DB and random response wikipedia article
